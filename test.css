@@ -1,0 +1,55 @@
+#Header{
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+#LeftNav{
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    float: left;
+}
+
+#Content{
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#Footer{
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+li{
+        list-style-type: none;
+}
+h1{
+    font-family: "Passion One";
+    font-size: 60px;
+    color: #FFBC00
+    font-weight: bold;
+}
+h3{
+    font-family: "Passion One";
+    font-size: 40px;
+    color: #FFBC00;
+    font-weight: bold;
+}
+
+div{
+    background-color: #9E41D5;
+    background-image: url()
+}

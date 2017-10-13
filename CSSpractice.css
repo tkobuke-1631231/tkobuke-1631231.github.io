@@ -1,0 +1,34 @@
+#Header{
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+#LeftNav{
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#Content{
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#Footer{
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
